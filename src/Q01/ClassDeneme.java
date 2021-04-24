@@ -6,6 +6,11 @@ public class ClassDeneme {
 		
 		System.out.println("Hello");
 		System.out.println("Github");
+		
+		System.out.println("Github dan donus");
+		
+		
+		
 
 	}
 
